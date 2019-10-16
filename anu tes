@@ -1,5 +1,22 @@
 #include <stdio.h>
 main(){
+  \*Awalan*\
   printf("Hello World")
   return 0;
+  
+  int sayyid=250,action;
+  
+  printf("Yoga = Ih anjing Sayyid\n");
+  printf("\n\nSayyid HP :%d\n,sayyid");
+  printf("[1]\n");
+  printf("[2]\n");
+  printf("[3]\n");
+  printf("[4]\n");
+  printf("Choose Action");
+  scanf("%d,action);
+  
+  if(action ==1){
+    sayyid = sayyid - 10;
+    printf("rip 10 HP");
+  
 }
